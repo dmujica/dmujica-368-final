@@ -707,6 +707,9 @@ footer ul {
 padding: 0 0 0 50px;
 }
 
+.gallery li:nth-child(9) {
+    	margin-left: 0;   
+}
 
 /*==============================
 	contact article
