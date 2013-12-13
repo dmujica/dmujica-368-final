@@ -606,6 +606,10 @@ a:active {
 .gallery ul {
 padding: 0 0 0 200px;
 }
+
+.gallery li:nth-child(9) {
+    	margin-left: 0;   
+}
 /*==============================
 	contact article
 ==============================*/ 
@@ -740,6 +744,7 @@ form {
 .about div{
 	top: 30px;
     left: 80px;
+	margin-bottom: 0px;
 }
 
 .about p{
